@@ -1,2 +1,2 @@
 config:
-  prod:config..prod..生产环境
+  prod: "config..prod..生产环境"
